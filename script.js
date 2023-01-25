@@ -1,18 +1,18 @@
 var quizQuestions = [
     {
-        question: "This is question 1",
-        choices: ["answer 1 of 1", "answer 2 of 1", "answer 3 of 1"],
-        correct: "answer 1 of 1"
+        question: "Where in your HTML do you put your JavaScript in?",
+        choices: ["Body", "Head", "Both"],
+        correct: "Both"
     },
     {
-        question: "This is question 2",
-        choices: ["answer 1 of 2", "answer 2 of 2", "answer 3 of 2"],
-        correct: "answer 2 of 2"
+        question: "How do you set a variable?",
+        choices: ["Variable rock", "var rock", "var-rock"],
+        correct: "var rock"
     },
     {
-        question: "This is question 3",
-        choices: ["answer 1 of 3", "answer 2 of 3", "answer 3 of 3"],
-        correct: "answer 3 of 3"
+        question: "What is a click considered?",
+        choices: ["event listener", "variable", "function"],
+        correct: "event listener"
     },
 ]
 
